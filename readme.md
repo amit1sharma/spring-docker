@@ -4,6 +4,14 @@ Dockerfile is the main configuration file for docker so that it can perform acti
 
 This application can be sun through Main class SpringDockerApplication.java as well as from docker image
 
+Steps to configure docker on linux
+
+Install docker from repository
+
+If docker demon is not running execute this command
+<b>systemctl start docker</b>
+
+
 
 * To make docker image do the root location of project(location of Dockerfile file) and execute command
 
