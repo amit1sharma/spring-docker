@@ -13,7 +13,7 @@ If docker demon is not running execute this command
 
 
 
-* To make docker image do the root location of project(location of Dockerfile file) and execute command
+* To make docker image go the root location of project(location of Dockerfile file) and execute command
 
 <b>docker build -t springdockerimg.jar .</b>
 
